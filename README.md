@@ -54,10 +54,3 @@ Some of the SQL queries explored:
    * Year with highest casualties (Killed + Injured).
    * Ranking cities by number of blasts and total deaths.
    * Hospitals most frequently associated with incidents.
-
-
-✍️ *Author: \[Your Name]*
-
----
-
-Would you like me to also **generate this as a proper `README.md` file** (Markdown format) so you can directly use it in GitHub?
